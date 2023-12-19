@@ -109,3 +109,15 @@ https://t.mwm.moe/mp/
     justify-content: center;
     backdrop-filter: blur(5px);
 }
+
+.var-app-bar__right {
+    display: none;
+}
+
+.var-select__controller {
+    display: none;
+}
+
+.var-space {
+    display: none;
+}
