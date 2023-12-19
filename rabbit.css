@@ -121,3 +121,7 @@ https://t.mwm.moe/mp/
 .var-chip--small {
     display: none;
 }
+
+.var-select__line {
+    display: none;
+}
